@@ -38,7 +38,7 @@ Hi my name is Tjark, i live in Germany and i programm some cool stuff on the int
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
 - Java
-- HTML, CSS
+- HTML, CSS, php, js
 - Git
 
 ### My Organizations 🏢
