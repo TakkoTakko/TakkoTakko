@@ -44,7 +44,6 @@ I am able to plan, develop and maintain a full application stack by using the fo
 ### My Organizations 🏢
 
 - [Kiso Network](https://github.com/KisoMC)
-- [HolyLama](https://github.com/HolylamaMC)
 - [HelixDevs](https://github.com/HelixDevsMC)
 
 
