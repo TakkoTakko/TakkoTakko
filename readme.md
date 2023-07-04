@@ -8,7 +8,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,arduino,git,github,php,mysql,java" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,git,github,php,mysql,java" height="40"/>
 
 </p>
 
@@ -51,17 +51,16 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - TakkoAPI
 - TakkoCloud
-- TakkoPermissions
-- AdvancedLobby
-- SignSystem
+- ServerCommunicationsAPI
 
 ### My Goals 🥅
 
-- Learn PHP, JS, Flutter, Dart, Swift & VUE.JS
+- Flutter, Dart, Swift, React Native & VUE.JS
 
 
 ### My GitHub Commits (Skyline) 🌃
 
+- [2023 GitHub Skyline](https://skyline.github.com/TakkoTakko/2023)
 - [2022 GitHub Skyline](https://skyline.github.com/TakkoTakko/2022)
 - [2021 GitHub Skyline](https://skyline.github.com/TakkoTakko/2021)
 
