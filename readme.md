@@ -53,6 +53,3 @@ Hi my name is Tjark, i live in Germany and i programm some cool stuff on the int
 ### My GitHub Stats 📊
 
 ![Takko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakkoTakko&show_icons=true&theme=tokyonight)
-
-
-&copy; https://github.com/AstragoDE/
