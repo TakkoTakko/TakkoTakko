@@ -8,12 +8,12 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,html,css,tailwind,git,github,php,mysql,java" height="40"/>
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,git,github,php,mysql,java,kotlin" height="40"/>
 
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pr,ae,ps,discord" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,discord" height="40"/>
 
 </p>
 <p/>
@@ -29,17 +29,8 @@ Hi my name is Tjark, i live in Germany and i programm some cool stuff on the int
 
 ### Contact 📬
 
-- Discord: TakkoTakko#7354
+- Discord: TakkoTakko
 - E-Mail: tjarklit@gmail.com
-
-
-### My skills 🎯
-
-I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
-
-- Java
-- HTML, CSS, php, js
-- Git
 
 ### My Organizations 🏢
 
@@ -51,12 +42,6 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 - TakkoAPI
 - TakkoCloud
-- ServerCommunicationsAPI
-
-### My Goals 🥅
-
-- Flutter, Dart, Swift, React Native & VUE.JS
-
 
 ### My GitHub Commits (Skyline) 🌃
 
