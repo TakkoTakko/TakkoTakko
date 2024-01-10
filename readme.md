@@ -45,13 +45,6 @@ I offer contract development, please contact me via e-mail or Discord.
     - Photos
     - synced devices
 
-### My GitHub Commits (Skyline) 🌃
-
-- [2024 GitHub Skyline](https://skyline.github.com/TakkoTakko/2024)
-- [2023 GitHub Skyline](https://skyline.github.com/TakkoTakko/2023)
-- [2022 GitHub Skyline](https://skyline.github.com/TakkoTakko/2022)
-- [2021 GitHub Skyline](https://skyline.github.com/TakkoTakko/2021)
-
 
 ### My GitHub Stats 📊
 
