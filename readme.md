@@ -8,7 +8,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,git,github,php,mysql" height="40"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,git,github,php,mysql,javascript,react" height="40"/>
 
 </p>
 
@@ -16,35 +16,38 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea,discord" height="40"/>
 
 </p>
-<p/>
-<p align="center">
-    <a><img src="https://hits.dwyl.com/AstragoDE/LeNinjaHD.svg?style=flat-square" /></a>
-    <img src="https://img.shields.io/github/followers/LeNinjaHD?style=flat-square">
-</p>
-<br>
 
+Hi my name is Tjark Städtler, I'm 17 years old. I am currently in the 11th grade at the grammar school in Lilienthal. I am aiming for my Abitur in 2026.
+In my spare time I program with Java or JavaScript. I implement small hobby projects, but have also worked on larger projects.
 
-Hi my name is Tjark, i live in Germany and i programm some cool stuff on the internet.
+I offer contract development, please contact me via e-mail or Discord. 
 
 
 ### Contact 📬
 
 - Discord: TakkoTakko
-- E-Mail: tjarklit@gmail.com
+- E-Mail: contact@takkomedia.de
 
 ### My Organizations 🏢
 
+- [TakkoMedia](https://github.com/TakkoMedia/)
 - [Kiso Network](https://github.com/KisoMC)
 - [HelixDevs](https://github.com/HelixDevsMC)
 
 
 ### My Projects 🏗️
 
-- TakkoAPI
-- TakkoCloud
+- TakkoMediaCloud
+- TakkoMediaAPI
+
+- TakkoMedia Cloud Compartments
+    - Files
+    - Photos
+    - synced devices
 
 ### My GitHub Commits (Skyline) 🌃
 
+- [2024 GitHub Skyline](https://skyline.github.com/TakkoTakko/2024)
 - [2023 GitHub Skyline](https://skyline.github.com/TakkoTakko/2023)
 - [2022 GitHub Skyline](https://skyline.github.com/TakkoTakko/2022)
 - [2021 GitHub Skyline](https://skyline.github.com/TakkoTakko/2021)
