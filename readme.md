@@ -18,7 +18,7 @@
 
 </p>
 
-Hi my name is Tjark Städtler, I'm 17 years old. I am currently in the 11th grade at the grammar school in Lilienthal. I am aiming for my Abitur in 2026.
+Hi my name is Tjark Städtler, I'm 18 years old. I am currently in the 11th grade at the grammar school in Lilienthal. I am aiming for my Abitur in 2026.
 In my spare time I program with Java or JavaScript. I implement small hobby projects, but have also worked on larger projects.
 
 I offer contract development, please contact me via e-mail or Discord. 
@@ -27,13 +27,15 @@ I offer contract development, please contact me via e-mail or Discord.
 ### Contact 📬
 
 - Discord: TakkoTakko
-- E-Mail: contact@takkomedia.de
+- E-Mail: hello@tjark-staedtler.de [[hello@tjark-staedtler.de](mailto:hello@tjark-staedtler.de)]
+- E-Mail (TakkoMedia) contact@takkomedia.de [[contact@takkomedia.de](mailto:contact@takkomedia.de)]
 
 ### My Organizations 🏢
 
 - [WebMen Internet GmbH](https://webmen.de/)
 
 - [TakkoMedia](https://github.com/TakkoMedia/)
+- 
 - [Kiso Network](https://github.com/KisoMC)
 - [HelixDevs](https://github.com/HelixDevsMC)
 
