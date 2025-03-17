@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Tjark </h1>
-<h2 align="center"> Some others call me TakkoTakko </h2>
+<h2 align="center"> Some others call me Takko </h2>
 
 <!-- <p align="center">
     <a href="https://leprofi.com><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" /></a>
@@ -18,7 +18,7 @@
 
 </p>
 
-Hi my name is Tjark Städtler, I'm 18 years old. I am currently in the 11th grade at the grammar school in Lilienthal. I am aiming for my Abitur in 2026.
+Hi my name is Tjark Städtler, I'm 18 years old. I am currently in the 12th grade at the grammar school in Lilienthal. I am aiming for my Abitur in 2026.
 In my spare time I program with Java or JavaScript. I implement small hobby projects, but have also worked on larger projects.
 
 I offer contract development, please contact me via e-mail or Discord. 
