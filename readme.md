@@ -1,14 +1,14 @@
 <h1 align="left">👋 Hey there, I'm Tjark </h1>
 
-Hi my name is Tjark Städtler, I'm 18 years old. I am currently in the 12th grade at the grammar school in Lilienthal. I am aiming for my Abitur in 2026.
-In my spare time I program with Java or JavaScript. I implement small hobby projects, but have also worked on larger projects.
+Hi my name is Tjark Städtler, I'm 19 years old. I am currently in the 13th and aiming for my Abitur in 2026.
+In my spare time I program mostly with Java, JavaScript or Laravell. I implement small hobby projects, but have also worked on larger projects.
 
 I offer contract development, please contact me via e-mail or Discord. 
 
 ### My Organizations 🏢
 
 - [WebMen Internet GmbH](https://webmen.de/)
-
+  
 - [TakkoMedia](https://github.com/TakkoMedia/)
   
 - [Kiso Network](https://github.com/KisoMC)
